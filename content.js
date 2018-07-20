@@ -1,1 +1,1 @@
-console.log("ooxgq")
+console.log("wwiim")
