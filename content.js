@@ -1,2 +1,2 @@
 console.log("diwey")
-console.log("rynyi")
+console.log("ofspq")
