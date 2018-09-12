@@ -1,1 +1,1 @@
-console.log("idttc")
+console.log("snstm")
