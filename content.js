@@ -1,2 +1,2 @@
 console.log("diwey")
-console.log("janqe")
+console.log("djpay")
