@@ -1,0 +1,1196 @@
+commit 3e38db667ee354bfec78ccfd33332c1f33b56844
+Merge: e28c75c 8962433
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Oct 29 19:51:20 2018 +0100
+
+    Merge remote-tracking branch 'wallet/master'
+
+commit e28c75c1e3f7e8223da8770ada2ced98e6b1a600
+Merge: a954f67 d4d22de
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Oct 29 19:50:32 2018 +0100
+
+    Merge remote-tracking branch 'messenger/master'
+
+commit a954f673dc199b80359ce8c02f68ca4588d45887
+Merge: 61d4e84 7588ba0
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Oct 29 19:49:40 2018 +0100
+
+    Merge remote-tracking branch 'bridge/master'
+
+commit 8962433d76c4a5431c324c36ed35eb9d15ee3d4f
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Oct 12 09:32:46 2018 +0200
+
+    add code in files types: .md
+    removed code in files types: .md
+
+commit 61d4e84bdcf12b25230aac683874eb9753c4e7d0
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Oct 12 09:32:46 2018 +0200
+
+    add code in files types: .md
+    removed code in files types: .md
+
+commit 199cefb210f259825166b623efeb6f08788c25e3
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Oct 12 09:32:30 2018 +0200
+
+    add code in files types: .example
+    removed code in files types:
+
+commit 11a49ad0a328861ae2ff786b6e591d2d2c7eccb5
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Oct 12 09:32:30 2018 +0200
+
+    add code in files types: .example
+    removed code in files types:
+
+commit c0534c099d15a90d5437c4f99d194c0e8eba6a96
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Oct 12 09:33:12 2018 +0200
+
+    add code in files types: .md
+    removed code in files types: .md
+
+commit 6b9a334b3b2b3821aa1f650c62316beaa5ced0d6
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Oct 12 09:33:05 2018 +0200
+
+    add code in files types:
+    removed code in files types:
+
+commit cd0ca285aa248e35574d891b103e4049221beb8e
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Oct 12 09:33:12 2018 +0200
+
+    add code in files types: .md
+    removed code in files types: .md
+
+commit 9811da0c23a4aa2b321508cbbdd65f6c63ed0b11
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Oct 12 09:33:05 2018 +0200
+
+    add code in files types:
+    removed code in files types:
+
+commit f7867a8ddc65a83c524860f88395945dc04b8b54
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Tue Oct 9 18:25:33 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit c8c5a30d627149207a4b331d4466541772222449
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Oct 8 16:04:44 2018 +0200
+
+    add code in files types: .tpl,.tf,.example
+    removed code in files types: .tpl,.tf,.example
+
+commit eed249330a62c3a2fd1142d5ef0c66207df382c1
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Oct 8 15:16:16 2018 +0200
+
+    add code in files types:
+    removed code in files types:
+
+commit eda105aa33ee7b7c6946ba1b72e2fe6d80222f34
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Oct 8 15:14:52 2018 +0200
+
+    add code in files types: .js
+    removed code in files types: .js
+
+commit 7588ba000e7482b61d3a0aafb5f0b388a70f29b3
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Oct 5 14:05:59 2018 +0200
+
+    add code in files types: .example
+    removed code in files types:
+
+commit 396b7535463ca0471163699c6045647060036134
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Oct 5 14:01:38 2018 +0200
+
+    add code in files types: .js,.yml
+    removed code in files types: .js,.yml
+
+commit 2b98847bfd58c2656b106b05c61e37c6fd88f4d4
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Oct 5 10:08:41 2018 +0200
+
+    add code in files types:
+    removed code in files types: .yml
+
+commit c068867262d52c13ef93a5533192b303aa74b382
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Oct 5 09:38:19 2018 +0200
+
+    add code in files types: .yml,.js
+    removed code in files types: .yml,.js
+
+commit 83e8d0701c60687679e1c46835d0baa0b9a459d0
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Oct 4 20:04:09 2018 +0200
+
+    add code in files types: .yml,.js
+    removed code in files types: .yml
+
+commit 1cdc3303a96a64018b065ddcf8ec853cc7103437
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Oct 1 16:06:03 2018 +0200
+
+    add code in files types: .yml,.js
+    removed code in files types: .yml,.js
+
+commit a3d6d7112209be28ca3489775d0a46264da8f67e
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Sep 28 20:46:49 2018 +0200
+
+    add code in files types: .tpl,.tf
+    removed code in files types: .tpl,.tf
+
+commit e1a627515c6d64dd4d7c2d979d466901d4deabdc
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Sep 20 20:40:54 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit daee5e4ffb141534ec2dd0e25767daf816a5151f
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Sep 19 18:04:22 2018 +0200
+
+    add code in files types: .tpl,.tf
+    removed code in files types: .tpl,.tf
+
+commit 52afcb7fd0f6fd38f1c18ff38c506c57e0598088
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Sep 19 17:55:41 2018 +0200
+
+    add code in files types: .md
+    removed code in files types: .md,.yml
+
+commit c148165c5e8529a40322a5193bfbe6d8a61ed31b
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Sep 13 17:51:08 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit 3e9f6d262603ed87ea300885d9033c1bf4589c91
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Sep 12 20:57:33 2018 +0200
+
+    add code in files types:
+    removed code in files types:
+
+commit 157e5291dca360254da0954011b8db8d16c515df
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Sep 12 20:57:19 2018 +0200
+
+    add code in files types:
+    removed code in files types:
+
+commit 721eea14c38bf53a2b8bfd2ebf294baecd29592b
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Sep 12 20:55:35 2018 +0200
+
+    add code in files types: ,.tpl,.tf,.md
+    removed code in files types: ,.tf,.md
+
+commit a82ea11fac2bd52840174ad003a01ac30ed761e0
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Sep 12 20:54:33 2018 +0200
+
+    add code in files types: .json
+    removed code in files types: .json
+
+commit cc9cad6d9d03f98cbf261227d16e8cabcbba5661
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Sep 12 20:53:59 2018 +0200
+
+    add code in files types: .yml
+    removed code in files types: .yml
+
+commit 1c002b9519aa6463ac22768ff3f1b3fb9ee1a7e6
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Sep 12 20:52:14 2018 +0200
+
+    add code in files types: .js
+    removed code in files types: .js
+
+commit 4c683f9c82d80d3e0134a5452e5a80b01daf738d
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Sep 12 20:48:32 2018 +0200
+
+    add code in files types: .js
+    removed code in files types: .js
+
+commit a2892ee1000ac4e22b472a4197dd5cbddfc7886b
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Sep 12 20:46:38 2018 +0200
+
+    add code in files types: .js
+    removed code in files types: .js
+
+commit d4d22deb1845de55d2a5a9147de6c7f33b0ba295
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Sep 12 20:42:15 2018 +0200
+
+    add code in files types: .js
+    removed code in files types: .js
+
+commit 8dbaa5609ec0a1a2ec5ff411b59d154dae376f7a
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Aug 31 15:50:44 2018 +0200
+
+    add code in files types:
+    removed code in files types:
+
+commit 48e96b19a35c5cefc19408ae0393a18583a7c59f
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Aug 31 12:26:51 2018 +0200
+
+    add code in files types:
+    removed code in files types:
+
+commit d70b9003badb7a233b2599ba487bb4024bff38eb
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Aug 31 12:21:00 2018 +0200
+
+    add code in files types: .js,.yml
+    removed code in files types: .js
+
+commit ba047146aa3c99907136bdbaa485e9dff956d7f8
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Aug 31 12:19:45 2018 +0200
+
+    add code in files types:
+    removed code in files types:
+
+commit 054ec6e87669a49b409c99bde2d335a68960cab6
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Aug 31 12:16:17 2018 +0200
+
+    add code in files types: .tpl
+    removed code in files types:
+
+commit dd16a01cb621d44f57700155445589bd4f8497bc
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Aug 31 12:15:50 2018 +0200
+
+    add code in files types: ,.tpl,.tf
+    removed code in files types: .tpl,.tf
+
+commit 4f0d62c5e3e76eaf138fa43f31d0f253d01c07d5
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Aug 31 12:11:26 2018 +0200
+
+    add code in files types: ,.yml,.js,.json
+    removed code in files types: .json
+
+commit 17ead58989a41133fef7cde96b4c327e6f9be11f
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Aug 30 17:33:44 2018 +0200
+
+    add code in files types: ,.md
+    removed code in files types: ,.md
+
+commit 7408c4822b6bee15e11d81c5d70f69a4e93a90a5
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Aug 29 18:03:07 2018 +0200
+
+    add code in files types:
+    removed code in files types:
+
+commit 503e300d8ff5227240ef09f9e01b517555dd5715
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Aug 29 18:02:18 2018 +0200
+
+    add code in files types: .js
+    removed code in files types: .js
+
+commit 78f1cc7ad86a332402cced05dd67ff8301824c9a
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Aug 23 17:46:55 2018 +0200
+
+    add code in files types: .js
+    removed code in files types: .js
+
+commit a80ca199c338757b17cf1904c524a4c92024ab51
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Aug 23 15:47:45 2018 +0200
+
+    add code in files types: ,.json
+    removed code in files types:
+
+commit ea3857118aaa6db43688565a1592357bdeb218fc
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Aug 22 15:21:04 2018 +0200
+
+    add code in files types: .json
+    removed code in files types: .json
+
+commit 87e1aed71bb15a4340eb1520108b73b774f3dce3
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Aug 22 15:20:34 2018 +0200
+
+    add code in files types: .js
+    removed code in files types: .js
+
+commit 8575b0ca6dc13b0a1246182fde3a93530ef6121c
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Aug 22 14:25:44 2018 +0200
+
+    add code in files types: .js,.json
+    removed code in files types: .js,.json
+
+commit 8c8ef3a75f19731cc2724ab008e181257b15bd77
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Aug 20 17:57:35 2018 +0200
+
+    add code in files types: .js,.json
+    removed code in files types:
+
+commit 01221ae5b5d1cc137034219b4d5c1a4e8e843e99
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Aug 20 17:55:48 2018 +0200
+
+    add code in files types: .js
+    removed code in files types: .js
+
+commit 4d6a24d804a5fb9e47d8fdd4594599c62153e828
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Aug 20 17:50:30 2018 +0200
+
+    add code in files types: .yml
+    removed code in files types: .yml
+
+commit 75d163742f892617be974e1bdf39f1ce2334c038
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Aug 13 09:16:12 2018 +0200
+
+    add code in files types: .js,.yml
+    removed code in files types: .js,.yml
+
+commit a6dc6bfd9f13b1762af0cce78a5a8a200a08f7e9
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Aug 10 15:13:01 2018 +0200
+
+    add code in files types: .js
+    removed code in files types: .js
+
+commit c2def1c137f4097e227516d52978b91387829bc9
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Aug 10 14:05:59 2018 +0200
+
+    add code in files types: .js,.yml
+    removed code in files types: .js,.yml
+
+commit 62172f1a0503faca912e9bc54da2e7a64cc31ef0
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Aug 10 12:52:11 2018 +0200
+
+    add code in files types: .js,.yml
+    removed code in files types: .js,.yml
+
+commit 1ec7c596aeecf9bedfb890d207bd8fbffe81720a
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Aug 8 09:43:22 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit b15720840bb1bcc9b758e5eec4ff7c1b75b39336
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Aug 8 09:42:51 2018 +0200
+
+    add code in files types: ,.tpl
+    removed code in files types: ,.tpl
+
+commit 903bed4c36057893ef68461c4bab24b2d6ae75db
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Aug 8 08:31:55 2018 +0200
+
+    add code in files types: .yml
+    removed code in files types: .yml
+
+commit 965f7be908352defb69f9e1bce7a9893fb4a9b85
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Aug 8 08:31:39 2018 +0200
+
+    add code in files types: .example
+    removed code in files types:
+
+commit 748808edcdd8546c70e369b8e8298285d90cf002
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Aug 8 08:17:34 2018 +0200
+
+    add code in files types: ,.tpl,.tf,.md
+    removed code in files types: .tpl,.tf,.md
+
+commit 8314ad966afe19adde9e373c6465290921bb1964
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Aug 8 08:13:08 2018 +0200
+
+    add code in files types: .js,.yml
+    removed code in files types: .js,.yml
+
+commit 33406d0c67b46998226f00f53ff324052997f8ee
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Aug 6 10:38:40 2018 +0200
+
+    add code in files types: .js
+    removed code in files types: .js
+
+commit d23c6248a28e723b7251114c0e92198a756443df
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Aug 2 18:12:42 2018 +0200
+
+    add code in files types:
+    removed code in files types:
+
+commit dce48cd07b4652202fe7dd61750630070bcc1bce
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Aug 2 18:09:59 2018 +0200
+
+    add code in files types: .js
+    removed code in files types: .js
+
+commit 79cd22131b731676417993264b1b4bbd2b3fd4be
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Aug 2 18:09:40 2018 +0200
+
+    add code in files types: .json
+    removed code in files types: .json
+
+commit b2627666516fb2d1e7419baa4a28bad399c07e64
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Aug 2 18:04:58 2018 +0200
+
+    add code in files types: .js
+    removed code in files types: .js
+
+commit 63abf7699fcb2b2b8a2ae6d4ba8c570d102bc69f
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Aug 2 18:02:49 2018 +0200
+
+    add code in files types: .md
+    removed code in files types:
+
+commit 1af3631dd2f7eecade2fa2e321c2f88dfdb0de52
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Aug 2 18:02:37 2018 +0200
+
+    add code in files types: .tpl,.tf,.md
+    removed code in files types: .tpl,.tf,.md
+
+commit d53b4544a8e7d56a34a4ac85a2cb8e7aed6eb9a9
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Aug 2 14:25:59 2018 +0200
+
+    add code in files types: .js
+    removed code in files types: .js
+
+commit f0570f6f65f3ae3c33270fd8cb83b01df843a0ee
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Aug 1 18:23:28 2018 +0200
+
+    add code in files types: .json
+    removed code in files types:
+
+commit 054eed4fec4d21487206c63177899d74652a3f5a
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Aug 1 16:00:02 2018 +0200
+
+    add code in files types: ,.yml
+    removed code in files types: .yml
+
+commit 759ced7182f01f24a6d83a5d72eb51c60c21afdf
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Aug 1 13:56:36 2018 +0200
+
+    add code in files types:
+    removed code in files types:
+
+commit b81413e3c61688817802b20750ef1d79925da840
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Aug 1 13:50:29 2018 +0200
+
+    add code in files types: .json,.js,.yml
+    removed code in files types: .json,.js,.yml
+
+commit 62cb8d346b4e1be58b12a47000db5b395c51653a
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Jul 30 14:36:26 2018 +0200
+
+    add code in files types: .json
+    removed code in files types: .json
+
+commit 7226512002148c58ed5be06e06d3bf1098f73519
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Jul 30 13:18:19 2018 +0200
+
+    add code in files types: .json
+    removed code in files types:
+
+commit 5644799164a75796ed0915d08092e7bdedeba2ae
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Jul 30 13:16:25 2018 +0200
+
+    add code in files types: ,.md,.json,.js,.yml
+    removed code in files types:
+
+commit 99502801042ea74df8b74d7cf2fff0640091cd95
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Jul 27 17:28:59 2018 +0200
+
+    add code in files types: .js
+    removed code in files types: .js
+
+commit 85cc0f16335833760f5cc069383637b83dbab1dd
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Jul 26 18:49:37 2018 +0200
+
+    add code in files types: .js,.yml
+    removed code in files types: .js,.yml
+
+commit a68a66d112fa394497aeef29ac8357354fc1c69e
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Jul 26 17:32:32 2018 +0200
+
+    add code in files types: .js,.yml
+    removed code in files types: .js,.yml
+
+commit a293053d772b02d713352559d9492819e72fb877
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Tue Jul 24 18:05:20 2018 +0200
+
+    add code in files types: .js
+    removed code in files types: .js
+
+commit ddb1a76e34a25f1ae81efebcee74a1ce697bcd10
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Tue Jul 24 17:37:49 2018 +0200
+
+    add code in files types: .js,.yml
+    removed code in files types: .js,.yml
+
+commit 20f35d2504f4fda0b633003113ab17ef37fc5bab
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Tue Jul 24 15:01:41 2018 +0200
+
+    add code in files types: .js,.yml
+    removed code in files types: .js,.yml
+
+commit e39f201074a59ebaa65c082d5c7422b621288d04
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Tue Jul 24 15:01:29 2018 +0200
+
+    add code in files types: .js
+    removed code in files types: .js
+
+commit 47edb6d979910ee8860287c6a29d118c2b0075e2
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Jul 23 14:29:23 2018 +0200
+
+    add code in files types: .js,.yml
+    removed code in files types: .js,.yml
+
+commit 4f9f3fc1c78c9299342b157037845b2548fa587a
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Jul 20 16:56:29 2018 +0200
+
+    add code in files types: .js,.yml
+    removed code in files types: .js,.yml
+
+commit bcad18c56eeef3529e16040af94047edc77cef85
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Jul 20 16:19:55 2018 +0200
+
+    add code in files types: .js,.yml
+    removed code in files types: .js,.yml
+
+commit 10f70bf887e475f32ec14a265110b86ebf819c02
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri Jul 20 16:18:48 2018 +0200
+
+    add code in files types: .js
+    removed code in files types: .js
+
+commit 8410c263a3ebf1fc22ed81432aa320a36d1f7157
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Jul 16 15:47:59 2018 +0200
+
+    add code in files types: ,.js,.yml
+    removed code in files types: ,.js,.yml
+
+commit 196cf82f014e2670d0a43d058ff3aa61644bec11
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Jul 12 17:29:51 2018 +0200
+
+    add code in files types: .md
+    removed code in files types:
+
+commit 3a8eefb24255ef06ad322d8564fd7a20ea093b42
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Jul 12 17:27:45 2018 +0200
+
+    add code in files types: .md
+    removed code in files types: .md
+
+commit 07b0e7bfbdf64b17c2b8ef328177292b18664065
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Jul 12 17:23:39 2018 +0200
+
+    add code in files types: .js
+    removed code in files types: .js
+
+commit ee63e7c17a14de093faf645a3d330f5e1531868f
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Jul 12 17:22:59 2018 +0200
+
+    add code in files types: ,.yml
+    removed code in files types: ,.yml
+
+commit 1e6c6f9ab8c02060cd1cf2398591413a1b49d5ab
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Jul 12 17:20:26 2018 +0200
+
+    add code in files types: .json
+    removed code in files types: .json
+
+commit 5b02c2415c88d9ccce58b0447917aa9ba53eaee4
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Jul 12 14:15:37 2018 +0200
+
+    add code in files types:
+    removed code in files types: .js,.yml
+
+commit 248d2b070ac7d7f33460e8145cd64b827b29c463
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Jul 11 19:58:54 2018 +0200
+
+    add code in files types: ,.js,.yml,.md,.json
+    removed code in files types:
+
+commit d1481bbd353553abf30e9b84355e2475eb3782b4
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Jul 11 12:17:27 2018 +0200
+
+    add code in files types: .md
+    removed code in files types:
+
+commit 1653f61e2cd5d21f39828b67f0517dba2d4cef86
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Jul 9 14:51:05 2018 +0200
+
+    add code in files types:
+    removed code in files types:
+
+commit 9d298af45330a381b62d27c6adfd88d5011d1f3a
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Jul 9 14:47:12 2018 +0200
+
+    add code in files types: .tpl,.tf
+    removed code in files types: .tpl,.tf
+
+commit 4ee87883ed5729bab47ca1e06521beba2b74e021
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Jun 18 14:02:42 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit 9f5a40dbf9903688675fef37134a371b8b480abb
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Jun 18 14:02:42 2018 +0200
+
+    add code in files types: .tf,.md
+    removed code in files types: .tf,.md
+
+commit eb336b76e0ba2e00ff50ec55a8ca531fb1a13f6d
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Jun 18 14:02:42 2018 +0200
+
+    add code in files types: .tpl,.tf
+    removed code in files types: .tpl
+
+commit 9dbf6315b8e2675c752fe378a4b5fd15c3c3cea6
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Jun 18 14:02:42 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit e69341e6c537c362f76eff7dd862a1ec520a488f
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Jun 18 14:00:56 2018 +0200
+
+    add code in files types:
+    removed code in files types:
+
+commit 90739f32eaee7a7e9f972e35bcf6af5f70bbfabb
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Jun 18 13:52:32 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit e2bbebc7821f353b7aaae2034c9c2b2e2670f30d
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Jun 14 13:42:21 2018 +0200
+
+    add code in files types: .tpl,.tf
+    removed code in files types: .tpl
+
+commit bf86ca3598cb31a032bb04d83d4a3488a01d5f92
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Jun 13 17:07:26 2018 +0200
+
+    add code in files types: .tf,.md
+    removed code in files types: .tf,.md
+
+commit 5e1cd0ce604827136d7cd8b3ab64c05fd9135b57
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Jun 4 14:40:18 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit ef17ebc9079073f30455aab7f15b538d76a09be6
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu May 31 19:23:07 2018 +0200
+
+    add code in files types: .tpl,.md,.tf
+    removed code in files types: .md,.tf
+
+commit dcee5c0232b32e29104fccdcdb2bee86a0f9b206
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu May 31 19:23:07 2018 +0200
+
+    add code in files types: .tpl
+    removed code in files types: .tpl
+
+commit 10c4d196631315abc75258b7ce8750d60aeedb6d
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu May 31 19:14:36 2018 +0200
+
+    add code in files types: .tpl
+    removed code in files types: .tpl
+
+commit db95ad59387149e614d9588293a8523e5ac62088
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu May 31 19:12:01 2018 +0200
+
+    add code in files types: .tpl,.md,.tf
+    removed code in files types: .md,.tf
+
+commit 30e7ae8fcb40430c2309b941707f1440b82f356a
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed May 30 09:36:21 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit da15dd37d743adb5aa9cf236229c79d4308f9d5d
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed May 30 09:17:57 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit f48a40af3357618203f299164c8bbfacd5a6a40f
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon May 28 16:15:09 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit a99fbbf2db326f419a3061e3522bbdaf8a78b24f
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon May 28 16:13:35 2018 +0200
+
+    add code in files types: .tpl
+    removed code in files types: .tpl
+
+commit be26662d261d1bab32bb77a605a14dd5add35a81
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri May 25 16:04:29 2018 +0200
+
+    add code in files types: .tpl,.tf
+    removed code in files types: .tf,.json
+
+commit 170804e71b3de0bf79beeebb2dc3f7000791a07f
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri May 25 15:03:57 2018 +0200
+
+    add code in files types: .tpl,.tf,.json
+    removed code in files types: .tpl,.tf
+
+commit 5490f023bfc23c5128e1c9a1be6635d81053362f
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri May 25 11:59:32 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit 3619d2bce6e30ceac6cfb78ecbe8f25620d32b9b
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu May 24 17:49:11 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit 5892be0f9a4b9f91229c9e7366b03b75d4632f06
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu May 24 17:48:22 2018 +0200
+
+    add code in files types: ,.js
+    removed code in files types:
+
+commit d906cb949fbcc6e5b89c8bc69849ee1943962eee
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Tue May 22 11:12:14 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit ca676a4a36951173ffaa28185f13883610383688
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Tue May 22 11:12:13 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit 4745a4a680debc60414d3c2c881a8e8023d432af
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Tue May 22 11:12:13 2018 +0200
+
+    add code in files types: .tpl,.tf
+    removed code in files types: .tpl,.tf
+
+commit 837e0a65dad868fd2ac722635508255b5da84d6e
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Tue May 22 11:12:13 2018 +0200
+
+    add code in files types:
+    removed code in files types: .tf
+
+commit d7b48a2f739b0d21dc338ecbd005101251d8a042
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Tue May 22 11:12:13 2018 +0200
+
+    add code in files types: .tpl
+    removed code in files types: .tpl
+
+commit 0af7802c42a8ada009f2d3fa02ef5234f4ed57be
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Tue May 22 11:12:13 2018 +0200
+
+    add code in files types:
+    removed code in files types: .tf,.tfvars
+
+commit 923679b0d98d9c4151c727097b702369e60877dc
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Tue May 22 11:12:13 2018 +0200
+
+    add code in files types: .example
+    removed code in files types:
+
+commit b22b41e01c37e9d707b7df79f814f34f2f300abe
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Tue May 22 11:11:05 2018 +0200
+
+    add code in files types: .tpl,.tf,.example
+    removed code in files types: .tpl,.tf,.tfvars
+
+commit 38b030ebfdb8b97b026c223f05e433c3491e6be0
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Tue May 22 11:10:57 2018 +0200
+
+    add code in files types:
+    removed code in files types:
+
+commit 4bb26a372607bf0af623a3a11c71339c90d5760f
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Tue May 22 11:05:16 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit 1eef58412c6f3ba52844cc07122f4e06de4fc26d
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Tue May 22 10:33:35 2018 +0200
+
+    add code in files types: .example
+    removed code in files types:
+
+commit 5b42db2f8839aede7f228e1ee552a2ddbcc76370
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Tue May 22 10:33:14 2018 +0200
+
+    add code in files types:
+    removed code in files types: .tf,.tfvars
+
+commit be1be03d7f79d5877e8aa4db0e57091a338dee1e
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri May 18 14:42:20 2018 +0200
+
+    add code in files types: .tpl
+    removed code in files types: .tpl
+
+commit 6e246b5d1d8870327b7fca5dd13a6c1c8a8cac7e
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri May 18 14:23:52 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types:
+
+commit 59216dd786cd83a540d4007134261b108fe19d49
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu May 17 20:11:19 2018 +0200
+
+    add code in files types:
+    removed code in files types: .tf
+
+commit 068f63b825c595a7d94fa9e98435e68dc28c1a9a
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu May 17 19:51:48 2018 +0200
+
+    add code in files types: .tpl,.tf
+    removed code in files types: .tpl,.tf
+
+commit 9ce2fb8e4fa9466d97b75263730ea18966483b21
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu May 17 17:53:08 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit 1c4096d7dde1b3cfa2f408973f8b0c431cc0ad8a
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed May 16 17:26:51 2018 +0200
+
+    add code in files types: .tpl,.tf
+    removed code in files types:
+
+commit a6cce69aaad458ca899a30a4c598a479b77306fb
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed May 16 12:21:33 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit 877c4d3284ab1faab703734ae1050dd3b2e99389
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed May 16 11:29:20 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit 15f514f651d27de6de7d420bc9b5d71e9deaf1e7
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed May 16 11:18:31 2018 +0200
+
+    add code in files types:
+    removed code in files types:
+
+commit a9293c8d343bf08605e1cfcb6894dc6dddfd346c
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed May 16 11:15:11 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit ed49c6ac4d44ea2a54035d7e9e8a70aff1130196
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon May 14 19:26:52 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit 760f54385653c0ade085915e85c55826d42d78ec
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon May 14 19:23:58 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit ddf5f711ba4e414430fd79a84fba19918bb264f8
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon May 14 19:21:23 2018 +0200
+
+    add code in files types: .md
+    removed code in files types: .md
+
+commit 370e25f7aeebfa01ecc260dfb89197d2ec9f6053
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Sun May 13 12:48:00 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit 3e7bf2224144f6e5302ae3cace78ce1f5f6ce5c6
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Sun May 13 11:08:28 2018 +0200
+
+    add code in files types: ,.tfvars
+    removed code in files types: ,.tfvars
+
+commit 0c41d06ca6ce7c7e3c6adeeecbe8e8f186f60266
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Sun May 13 09:05:31 2018 +0200
+
+    add code in files types:
+    removed code in files types:
+
+commit 4cc9661d6bcd1dfe063b139f24e184238951cce7
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Sun May 13 08:24:33 2018 +0200
+
+    add code in files types: .md
+    removed code in files types: .md
+
+commit 258b149af5060c758f29a0dc0443514fc4903049
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Fri May 11 18:46:46 2018 +0200
+
+    add code in files types: .tpl,.tf
+    removed code in files types: .tpl,.tf
+
+commit 7391c80b5ab594759772f7246ba3f3ba97b5375d
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Apr 23 19:41:41 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit 8a14e10fbe42448c56537f68a4d9a17ddbe739d7
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Apr 23 19:39:56 2018 +0200
+
+    add code in files types: .tpl
+    removed code in files types: .tpl
+
+commit cf50e3e084ef0de425c9ade43e46c75a5a8a9570
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Apr 23 19:39:09 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit f8e57f847fca0f39275552de0a149343eda7ffe8
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Apr 23 19:30:38 2018 +0200
+
+    add code in files types: .tpl
+    removed code in files types: .tpl
+
+commit 04220c079f2796e6971f38bf2c5bfcf3a54677d4
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Tue Apr 17 08:18:08 2018 +0200
+
+    add code in files types: .tpl,.tf
+    removed code in files types: .tpl,.tf
+
+commit 080315a621c11a8d160cca82ce7037c3f64c89b0
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Mon Apr 16 08:35:48 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit be648e97fa202811d891b234ea13ac421b9aee52
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Sun Apr 15 18:11:49 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit 44e08a876560d0df08ab839cb0442e9537cd5e95
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Apr 11 16:52:20 2018 +0200
+
+    add code in files types: .tpl
+    removed code in files types: .tpl
+
+commit 205498363a58d0f482317e9e8ccdca902aa834f2
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Apr 11 16:51:29 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit 2cef01b68dd6e85e2e84bd662d4ac6ef95afe46d
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Tue Apr 10 19:15:28 2018 +0200
+
+    add code in files types: .tpl
+    removed code in files types: .tpl
+
+commit a18c34ace2978120a008c2770dd9f90cbb1b409f
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Tue Apr 10 19:14:38 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types:
+
+commit 009f76c0ff5a0a0a0c158d4e413f458c255badc6
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Apr 5 18:08:45 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit 9b53de283b6d2714f1bd247a86c7351b53c29422
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Apr 4 11:42:39 2018 +0200
+
+    add code in files types: .tpl,.md,.tf
+    removed code in files types: .md
+
+commit 12cf3f53aec5bcbff7cae517693dd43eb56175de
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Wed Apr 4 10:41:14 2018 +0200
+
+    add code in files types: ,.tpl,.tf
+    removed code in files types: .tpl,.tf
+
+commit c2aab112f740c47d7423602569c21ec7d9e17bfa
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Mar 29 20:32:13 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit 350dbfa6070cc8bf95352ab91ab297f67c5308da
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Mar 29 20:31:15 2018 +0200
+
+    add code in files types: .tf,.md
+    removed code in files types: .tf,.md
+
+commit 69e1f11227a5fb47ee7958de7372b401d9197729
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Mar 29 20:27:11 2018 +0200
+
+    add code in files types: .tpl
+    removed code in files types: .tpl
+
+commit 7e8b1868e71e4b6353440de9231cf54e0a03e626
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Mar 29 20:26:13 2018 +0200
+
+    add code in files types: .tf
+    removed code in files types: .tf
+
+commit 445cde4137047dfecc4209b0e0d9d9fcd851ed14
+Author: Asaf Zamir <asaf.zamir@gmail.com>
+Date:   Thu Mar 29 20:24:08 2018 +0200
+
+    add code in files types: ,.tpl,.md,.tf,.tfvars
+    removed code in files types:
